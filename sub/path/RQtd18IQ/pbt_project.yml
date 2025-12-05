@@ -1,0 +1,50 @@
+name: jim.bartell
+description: bottom-line
+version: 0.2.4.511
+author: twfzifah.sx9s4epf@swoj3o0h.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: jimbartell
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-12-05 22:58:21'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-12-05 22:58:21'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-12-05T22:58:21.156083Z'
+  name: plibMaven
+  version: 8.16.0-SNAPSHOT
+  id: '662290709'
+  createdAt: '2025-12-05T22:58:21.156083Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
